@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/line.png</file>
+        <file>image/rect.png</file>
+        <file>image/quxian.png</file>
+        <file>image/eraser.png</file>
+        <file>image/3jiaoxing.png</file>
+        <file>image/rgb.png</file>
+        <file>image/edit.png</file>
+        <file>image/tb.png</file>
+    </qresource>
+</RCC>
